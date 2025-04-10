@@ -141,9 +141,9 @@ By completing this task, you will:
 
 ## Author
 
-Name: *[Your Name]*  
-Institution: *[Your College/Organization]*  
-Date: *April 2025*
+Name: *[K NAga prabhas]*  
+Institution: *[VNR VJIET]*  
+Date: *April 10 2025*
 
 ---
 
